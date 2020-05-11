@@ -49,6 +49,9 @@ a{
 	box-sizing: border-box;
 }
 /* RESET */
+.font-f{
+    font-family: 'Poppins', sans-serif;
+}
 
 /* FIRST SECTION */
     
@@ -60,7 +63,6 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
     height: 662px;
-    font-family: 'Poppins', sans-serif;
     padding-top: 21px;
 }
 
@@ -71,6 +73,7 @@ a{
     text-decoration: none;
     color: #5863F8;}
 .navigation{
+    font-family: 'Poppins', sans-serif;
     font-size: 12px;}
 .nav-list{
     margin-right: 50px;}
