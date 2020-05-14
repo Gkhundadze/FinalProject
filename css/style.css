@@ -236,6 +236,32 @@ a{
     font-family: 'Poppins', sans-serif;
 
 }
+/* Slick Slider */
+.slider {
+    width: 80%;
+    margin: 100px auto;
+}
+.slick-slide {
+  margin: 0px 10px;
+}
+.slick-slide img {
+  width: 100%;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+}
+.slick-slide {
+  transition: all ease-in-out .3s;
+  opacity: 1;
+}
+.slick-active {
+  opacity: 1;
+}
+.slick-current {
+  opacity: 1;
+}
+/* Slick Slider */
 @media (max-width: 887px){
     .left-box-rev {
         padding-left: 37px;
