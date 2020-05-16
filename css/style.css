@@ -362,7 +362,8 @@ left: 8px;}
     .slick-dots{
             bottom: 12px;}
     .slick-dots li button:before{
-        background-color: white;}
+        background-color: white;
+        font-size: 25px;}
     .slider{
         width: 100%;
         margin: 0;}
