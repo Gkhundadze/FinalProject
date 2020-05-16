@@ -357,6 +357,12 @@ left: 8px;}
             display: none;}
     .mobile-slick{
         display: block;}
+    .slick-dotted.slick-slider{
+        margin-bottom: 0;}   
+    .slick-dots{
+            bottom: 12px;}
+    .slick-dots li button:before{
+        background-color: white;}
     .slider{
         width: 100%;
         margin: 0;}
