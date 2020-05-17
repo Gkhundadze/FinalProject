@@ -292,6 +292,21 @@ left: 8px;}
     font-size: 48px;
     display: none;
     font-family: 'Poppins', sans-serif;}
+/* F O O T E R */
+.bg-color{
+    background-color: #121212;
+}
+.social-text{
+    font-size: 24px;
+}
+.copyright-text{
+    font-size: 12px;
+}
+.footer-fz{
+    line-height: 1.5;
+    font-size: 14px;
+}
+    /* F O O T E R */
 /* Slick Slider */
 .slider {
     width: 80%;
