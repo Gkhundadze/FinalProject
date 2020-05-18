@@ -303,6 +303,11 @@ left: 8px;}
     line-height: 1.5;
     font-size: 14px;}
     /* F O O T E R */
+/* R O O M S PAGE */
+.card-body-style{
+    width: 92%;
+}
+    /* R O O M S PAGE */
 /* Slick Slider */
 .slider {
     width: 80%;
