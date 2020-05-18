@@ -308,7 +308,7 @@ left: 8px;}
     width: 80%;
     margin: 100px auto;}
 .slick-slide {
-  margin: 0px 10px;}
+  margin: 0px 5px;}
 .slick-slide img {
   width: 100%;}
 .slick-prev:before,
@@ -368,16 +368,18 @@ left: 8px;}
             display: none;}
     .mobile-slick{
         display: block;}
-    /* .slick-dotted.slick-slider{
+    .slick-dotted.slick-slider{
         margin-bottom: 0;}   
     .slick-dots{
         bottom: 12px;}
-    .slick-dots li button{
-        padding: 3px;
-    }
+    .slick-dots li {
+        width: 15px;
+        height: 15px;
+        margin: 0 4px;
+    }      
     .slick-dots li button:before{
         background-color: white;
-        font-size: 18px;} */
+        font-size: 18px;}
     .slider{
         width: 100%;
         margin: 0;}
