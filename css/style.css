@@ -372,16 +372,16 @@ left: 8px;}
         margin-bottom: 0;}   
     .slick-dots{
         bottom: 12px;}
-    .slick-dots li {
-        width: 15px;
-        height: 15px;
-        margin: 0 4px;
-    }      
     .slick-dots li button:before{
-        background-color: white;
+        background-color: lightblue;
         font-size: 18px;}
     .slider{
         width: 100%;
         margin: 0;}
     .mob-slider-imgs{
         width: 100vh;}}
+@media (max-width: 370px){
+    .slick-dots li {
+        width: 15px;
+        height: 15px;
+        margin: 0 1.5%;}}        
