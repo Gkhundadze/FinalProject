@@ -329,6 +329,21 @@ left: 8px;}
 .mobile-slick{
     display: none;}  
     /* Slick Slider */
+.btn-outline-info-my{
+    color: #007bff;
+    border-color: #007bff;
+}    
+.btn-outline-info-my:hover{
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+.tweet-hover:hover{
+    color: #1DA1F2;
+}
+.google-hover:hover{
+    color: #db4a39;
+}
 /* R E S P O N S I V E */
 @media (max-width: 887px){
     .left-box-rev {
